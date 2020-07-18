@@ -28,7 +28,7 @@ I currently work with **Backend** and am open to new technologies and programmin
 [![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp&logoColor=purple)](https://github.com/tiago154/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/tiago154/)
 
-I like to contribute to the development community
+#### I like to contribute to the development community
 
 [graphql-import-files](https://www.npmjs.com/package/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting.
 
