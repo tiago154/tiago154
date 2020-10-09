@@ -44,6 +44,8 @@ I currently work with **Backend** and am open to new technologies and programmin
     </table>
 </center>
 
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=tiago154.visitor-badge)](https://github.com/tiago154)
+
 
 
 
