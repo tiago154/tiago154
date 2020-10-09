@@ -32,6 +32,18 @@ I currently work with **Backend** and am open to new technologies and programmin
 
 [graphql-import-files](https://www.npmjs.com/package/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting.
 
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=tiago154&count_private=true&hide_border=true" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago154&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+      </tr>  
+    </table>
+</center>
+
 
 
 
