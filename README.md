@@ -32,6 +32,10 @@ I currently work with **Backend** and am open to new technologies and programmin
 
 [graphql-import-files](https://www.npmjs.com/package/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting.
 
+#### Codewars
+
+![Codewars](https://www.codewars.com/users/tiago154/badges/small/)
+
 <center>
     <table align="center">
       <tr>
