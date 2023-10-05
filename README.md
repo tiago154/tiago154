@@ -36,6 +36,10 @@ I currently work with **Backend** and am open to new technologies and programmin
 
 ![Codewars](https://www.codewars.com/users/tiago154/badges/small/)
 
+### Holopin Bagdes
+
+[![An image of @tiago154's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tiago154)](https://holopin.io/@tiago154)
+
 <center>
     <table align="center">
       <tr>
